@@ -27,7 +27,7 @@ Includes solution of [__Gdz Elektrik Datathon 2023__](https://www.kaggle.com/com
 *  [Turkey COVID timeline](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_COVID-19_pandemisi_zaman_%C3%A7izelgesi)
 * [Introduction to Time Series Forecasting With Python](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/) by Jason Brownlee
 * [Kishan Manani's presentation](https://www.youtube.com/watch?v=9QtL7m3YS9I) about time series and recursive forecasting
-* [Srivatsan Srinivasan](https://github.com/srivatsan88)'s both [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) playlist and [repo]([https://github.com/srivatsan88](https://github.com/srivatsan88/End-to-End-Time-Series)
+* [Srivatsan Srinivasan](https://github.com/srivatsan88)'s both [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) playlist and [repo](https://github.com/srivatsan88/End-to-End-Time-Series)
 ***
 
 
