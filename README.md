@@ -1,6 +1,6 @@
 # Predicting the Energy Distribution using past years of data
 
-__Task: Time Series Regression__
+__Problem type: Time Series Regression__
 
 Includes solution of [__Gdz Elektrik Datathon 2023__](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2023). I attended the competition solo and ranked 61th(top %27) out of 342 competitors and 234 teams. 
 
